@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CSCE546-Project4</string>
+    <string name="click_me">Click Me!</string>
+    <string name="please_enter_your_name">Please enter your name.</string>
+</resources>
